@@ -1,0 +1,1 @@
+/home/client/ros_ws/devel/.private/move_turtle/share/move_turtle/cmake/move_turtleConfig-version.cmake

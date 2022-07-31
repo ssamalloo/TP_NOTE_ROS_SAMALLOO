@@ -1,0 +1,8 @@
+prefix=/home/client/ros_ws/install
+
+Name: move_turtle
+Description: Description of move_turtle
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

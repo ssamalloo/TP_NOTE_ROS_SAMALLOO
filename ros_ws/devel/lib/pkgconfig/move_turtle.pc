@@ -1,0 +1,1 @@
+/home/client/ros_ws/devel/.private/move_turtle/lib/pkgconfig/move_turtle.pc
